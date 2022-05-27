@@ -1,6 +1,7 @@
 # PWA Text Editor
 
 ## Description 
+A text editor app that is a PWA (Progressive Web Application) which works offline 
 
 ## User Story
 ```
@@ -50,14 +51,17 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ## Installation
+`npm i` to install dependencies
 
 ## Usage 
+After installation, run `npm run build` then `npm run start` to initialize the app 
 
-## Screenshots 
+## Mock-Up
+![screenshot](./images/Capture.JPG)
 
 ## Links 
 - [GitHub](https://github.com/KVPang/pwa-text-editor)
-- [Heroku]()
+- [Heroku](https://pwa-text-editor-20.herokuapp.com/)
 
 ## Contact 
 - GitHub: [KVPang](https://github.com/KVPang)
